@@ -1,0 +1,101 @@
+rfi_id;bank_name;category;account_type;date_received;amount_usd;status;rfi_theme;customer_country;recipient_country;transaction_purpose;prev_sus_num; prev_suspensions;account_status;PRIORITY;RISK LEVEL;RESPONSE TIME
+1;Bank A;Wise Customer;Business;01.12.2022;2000;Suspended;Sanctions;US;Germany;Family support;0;No;Active;Medium;3;9
+2;Bank A;Wise Customer;Business;10.01.2023;22000;Not Suspended;AML;UK;US;Payment for services;1;Yes;Deactivated;High;5;9
+3;Bank B;Recipient;Business;27.01.2024;5000;Suspended;Sanctions;Mexico;Italy;Investment;1;Yes;Active;High;5;9
+4;Bank A;Wise Customer;Individual;01.06.2017;2500;Not Suspended;AML;India;UAE;Family support;1;Yes;Deactivated;High;5;9
+5;Bank C;Recipient;Business;13.02.2013;3000;Not Suspended;AML;France;Mexico;Payment for services;0;No;Active;Medium;3;9
+6;Bank A;Wise Customer;Business;14.02.2021;4000;Suspended;Sanctions;UAE;UK;Investment;1;Yes;Active;High;5;10
+7;Bank A;Wise Customer;Individual;03.05.2016;1800;Not Suspended;AML;UK;Philippines;Remittance;1;Yes;Deactivated;High;5;10
+8;Bank B;Recipient;Business;04.06.2017;3200;Suspended;Sanctions;US;Russia;Payment for services;0;No;Active;Medium;3;9
+9;Bank B;Wise Customer;Business;05.06.2017;7000;Not Suspended;AML;Mexico;Canada;Investment;1;Yes;Deactivated;High;5;9
+10;Bank C;Recipient;Individual;04.08.2015;4500;Suspended;Sanctions;India;India;Family support;1;Yes;Active;High;5;10
+11;Bank C;Wise Customer;Individual;07.06.2024;5200;Not Suspended;AML;France;Mexico;Payment for services;0;No;Active;Medium;3;9
+12;Bank A;Recipient;Individual;04.08.2015;2300;Suspended;Sanctions;UAE;Saudi Arabia;Investment;1;Yes;Deactivated;High;5;9
+13;Bank C;Wise Customer;Individual;07.05.2015;3300;Not Suspended;AML;UK;Philippines;Family support;0;No;Active;Medium;3;8
+14;Bank C;Recipient;Individual;06.09.2024;4000;Suspended;Sanctions;US;France;Payment for services;0;No;Active;Medium;3;10
+15;Bank B;Wise Customer;Business;04.10.2024;2800;Not Suspended;AML;UK;UK;Investment;0;No;Active;Medium;3;9
+16;Bank C;Recipient;Business;27.01.2023;6200;Suspended;Sanctions;India;Switzerland;Family support;1;Yes;Active;High;5;9
+17;Bank B;Wise Customer;Business;09.11.2023;3700;Not Suspended;AML;Mexico;Japan;Payment for services;0;No;Active;Medium;3;8
+18;Bank B;Recipient;Business;27.01.2024;4900;Suspended;Sanctions;France;Chile;Investment;1;Yes;Active;High;5;8
+19;Bank A;Wise Customer;Business;15.06.2022;2100;Not Suspended;AML;UAE;South Africa;Family support;0;No;Active;Medium;3;9
+20;Bank A;Recipient;Individual;08.08.2023;1500;Suspended;Sanctions;UK;Nigeria;Payment for services;0;No;Active;Medium;3;10
+21;Bank C;Recipient;Business;28.09.2017;5000;Suspended;Sanctions;Mexico;Germany;Family support;1;Yes;Active;High;5;9
+22;Bank B;Recipient;Business;17.06.2016;3500;Not Suspended;AML;US;Brazil;Investment;0;No;Active;Medium;3;8
+23;Bank B;Wise Customer;Individual;21.10.2017;3000;Not Suspended;AML;India;France;Payment for services;0;No;Active;Medium;3;10
+24;Bank C;Recipient;Business;29.12.2017;4800;Suspended;Sanctions;UAE;UK;Investment;1;Yes;Active;High;5;9
+25;Bank B;Wise Customer;Individual;18.10.2014;2800;Not Suspended;AML;France;Japan;Family support;0;No;Active;Medium;3;9
+26;Bank A;Recipient;Individual;22.06.2018;3700;Suspended;Sanctions;US;Italy;Payment for services;0;No;Active;Medium;3;8
+27;Bank A;Wise Customer;Business;11.12.2019;5400;Not Suspended;AML;UK;Mexico;Investment;0;No;Deactivated;Medium;3;10
+28;Bank A;Recipient;Business;24.06.2017;4100;Suspended;Sanctions;Canada;UK;Family support;1;Yes;Active;High;5;9
+29;Bank A;Wise Customer;Individual;25.05.2018;2900;Not Suspended;AML;Germany;Nigeria;Payment for services;0;No;Active;Medium;3;9
+30;Bank C;Recipient;Business;11.12.2015;2200;Suspended;Sanctions;India;France;Investment;1;Yes;Active;High;5;9
+31;Bank B;Wise Customer;Business;04.12.2022;6000;Not Suspended;AML;UK;Brazil;Family support;0;No;Active;Medium;3;10
+32;Bank A;Recipient;Individual;04.03.2020;3500;Suspended;Sanctions;Mexico;Japan;Payment for services;0;No;Active;Medium;3;8
+33;Bank A;Wise Customer;Business;15.10.2024;4300;Not Suspended;AML;UAE;South Africa;Investment;1;Yes;Deactivated;High;5;8
+34;Bank C;Recipient;Business;03.12.2020;3700;Suspended;Sanctions;UK;Germany;Family support;0;No;Active;Medium;3;8
+35;Bank B;Wise Customer;Business;03.07.2019;5200;Not Suspended;AML;France;Canada;Payment for services;0;No;Active;Medium;3;10
+36;Bank A;Recipient;Individual;02.10.2024;4800;Suspended;Sanctions;India;Italy;Investment;1;Yes;Active;High;5;10
+37;Bank C;Wise Customer;Business;13.10.2020;3000;Not Suspended;AML;US;Brazil;Family support;0;No;Active;Medium;3;8
+38;Bank A;Recipient;Business;21.05.2023;4100;Suspended;Sanctions;UAE;Russia;Payment for services;0;No;Active;Medium;3;8
+39;Bank C;Wise Customer;Individual;08.05.2024;2900;Not Suspended;AML;UK;Japan;Investment;1;Yes;Deactivated;High;5;8
+40;Bank C;Recipient;Individual;28.05.2020;3300;Suspended;Sanctions;Mexico;France;Family support;1;Yes;Active;High;5;10
+41;Bank A;Wise Customer;Business;17.05.2014;6200;Not Suspended;AML;Germany;Switzerland;Payment for services;0;No;Active;Medium;3;10
+42;Bank C;Recipient;Individual;09.05.2024;2100;Suspended;Sanctions;India;UK;Investment;1;Yes;Active;High;5;9
+43;Bank B;Wise Customer;Individual;16.07.2015;3700;Not Suspended;AML;France;Brazil;Family support;0;No;Active;Medium;3;8
+44;Bank A;Recipient;Individual;28.06.2024;4900;Suspended;Sanctions;UAE;Japan;Payment for services;1;Yes;Active;High;5;8
+45;Bank B;Wise Customer;Individual;06.09.2015;10000;Not Suspended;AML;UK;Nigeria;Investment;1;Yes;Deactivated;High;5;8
+46;Bank C;Recipient;Business;18.07.2017;4200;Suspended;Sanctions;Mexico;US;Family support;0;No;Active;Medium;3;8
+47;Bank C;Wise Customer;Individual;22.01.2020;2500;Not Suspended;AML;Canada;South Africa;Payment for services;1;Yes;Deactivated;High;5;9
+48;Bank C;Recipient;Business;18.08.2023;3500;Suspended;Sanctions;France;India;Investment;0;No;Active;Medium;3;10
+49;Bank A;Wise Customer;Individual;11.07.2017;4800;Not Suspended;AML;UAE;Germany;Family support;1;Yes;Active;High;5;10
+50;Bank B;Recipient;Individual;03.03.2017;2900;Suspended;Sanctions;UK;Italy;Payment for services;0;No;Active;Medium;3;8
+51;Bank A;Wise Customer;Business;03.02.2018;3600;Not Suspended;AML;Germany;India;Investment;0;No;Active;Medium;3;10
+52;Bank B;Recipient;Individual;05.12.2016;2700;Suspended;Sanctions;UAE;Brazil;Family support;1;Yes;Active;High;5;10
+53;Bank C;Wise Customer;Business;14.01.2022;4200;Not Suspended;AML;US;France;Payment for services;0;No;Active;Medium;3;9
+54;Bank A;Recipient;Business;08.07.2015;5100;Suspended;Sanctions;UK;Italy;Investment;1;Yes;Active;High;5;10
+55;Bank C;Wise Customer;Individual;03.10.2024;2800;Not Suspended;AML;Mexico;South Africa;Remittance;0;No;Deactivated;Medium;3;8
+56;Bank B;Recipient;Business;22.09.2020;4700;Suspended;Sanctions;India;Germany;Family support;1;Yes;Active;High;5;9
+57;Bank C;Wise Customer;Business;01.05.2017;3500;Not Suspended;AML;France;Philippines;Payment for services;0;No;Active;Medium;3;10
+58;Bank A;Recipient;Individual;15.08.2019;2300;Suspended;Sanctions;UAE;US;Investment;1;Yes;Deactivated;High;5;9
+59;Bank C;Wise Customer;Business;18.11.2022;5200;Not Suspended;AML;UK;Japan;Family support;0;No;Active;Medium;3;9
+60;Bank B;Recipient;Business;27.06.2023;6100;Suspended;Sanctions;Mexico;UAE;Payment for services;1;Yes;Active;High;5;10
+61;Bank A;Wise Customer;Individual;29.03.2016;2500;Not Suspended;AML;India;France;Investment;0;No;Active;Medium;3;10
+62;Bank B;Recipient;Business;06.09.2018;3900;Suspended;Sanctions;UK;Switzerland;Family support;0;No;Active;Medium;3;8
+63;Bank C;Wise Customer;Business;11.07.2024;4600;Not Suspended;AML;US;Brazil;Payment for services;0;No;Active;Medium;3;8
+64;Bank A;Recipient;Individual;21.12.2014;2000;Suspended;Sanctions;UAE;Germany;Remittance;1;Yes;Active;High;5;8
+65;Bank C;Wise Customer;Business;19.02.2018;4300;Not Suspended;AML;Mexico;Russia;Investment;0;No;Deactivated;Medium;3;8
+66;Bank B;Recipient;Business;12.04.2023;2800;Suspended;Sanctions;France;Italy;Family support;0;No;Active;Medium;3;9
+67;Bank A;Wise Customer;Individual;07.08.2017;3500;Not Suspended;AML;UK;UAE;Payment for services;0;No;Active;Medium;3;9
+68;Bank C;Recipient;Business;03.11.2016;4000;Suspended;Sanctions;Germany;Philippines;Investment;1;Yes;Active;High;5;9
+69;Bank B;Wise Customer;Business;17.09.2015;5600;Not Suspended;AML;Canada;UK;Family support;0;No;Active;Medium;3;9
+70;Bank A;Recipient;Individual;27.10.2019;2700;Suspended;Sanctions;India;US;Payment for services;1;Yes;Deactivated;High;5;8
+71;Bank C;Wise Customer;Individual;09.09.2018;3600;Not Suspended;AML;Canada;Japan;Remittance;1;Yes;Active;High;5;8
+72;Bank B;Recipient;Business;12.12.2016;4600;Suspended;Sanctions;UAE;France;Payment for services;0;No;Active;Medium;3;9
+73;Bank A;Wise Customer;Business;04.02.2019;7200;Not Suspended;AML;India;UAE;Investment;0;No;Active;Medium;3;8
+74;Bank A;Recipient;Individual;05.05.2022;3100;Suspended;Sanctions;UK;Germany;Family support;1;Yes;Active;High;5;9
+75;Bank C;Wise Customer;Business;08.08.2021;2800;Not Suspended;AML;Mexico;Brazil;Remittance;0;No;Deactivated;Medium;3;9
+76;Bank B;Recipient;Business;13.01.2023;6100;Suspended;Sanctions;US;Russia;Payment for services;1;Yes;Active;High;5;10
+77;Bank A;Wise Customer;Individual;07.03.2017;4200;Not Suspended;AML;UAE;Canada;Investment;0;No;Active;Medium;3;8
+78;Bank C;Recipient;Business;18.08.2020;5900;Suspended;Sanctions;UK;South Africa;Family support;1;Yes;Active;High;5;9
+79;Bank B;Wise Customer;Business;30.11.2015;3600;Not Suspended;AML;India;Japan;Payment for services;0;No;Active;Medium;3;8
+80;Bank A;Recipient;Individual;02.02.2024;4800;Suspended;Sanctions;UAE;Nigeria;Investment;1;Yes;Active;High;5;8
+81;Bank C;Wise Customer;Business;21.12.2019;3000;Not Suspended;AML;Germany;UK;Remittance;0;No;Active;Medium;3;8
+82;Bank B;Recipient;Individual;25.10.2018;5100;Suspended;Sanctions;Mexico;UAE;Payment for services;1;Yes;Active;High;5;9
+83;Bank A;Wise Customer;Business;05.03.2022;6200;Not Suspended;AML;France;Brazil;Investment;0;No;Deactivated;Medium;3;10
+84;Bank C;Recipient;Business;19.01.2018;4600;Suspended;Sanctions;UK;Mexico;Family support;1;Yes;Active;High;5;10
+85;Bank B;Wise Customer;Individual;10.10.2023;3400;Not Suspended;AML;Canada;India;Payment for services;0;No;Active;Medium;3;10
+86;Bank A;Recipient;Business;11.04.2023;2700;Suspended;Sanctions;UAE;Switzerland;Investment;1;Yes;Active;High;5;8
+87;Bank C;Wise Customer;Business;07.07.2019;3800;Not Suspended;AML;India;US;Remittance;0;No;Active;Medium;3;10
+88;Bank A;Recipient;Individual;13.09.2021;5500;Suspended;Sanctions;Germany;UAE;Payment for services;1;Yes;Active;High;5;9
+89;Bank C;Recipient;Individual;29.03.2018;4300;Suspended;Sanctions;Mexico;Canada;Investment;1;Yes;Deactivated;High;5;8
+90;Bank A;Recipient;Business;07.08.2020;4400;Suspended;Sanctions;UAE;Japan;Investment;1;Yes;Active;High;5;8
+91;Bank B;Wise Customer;Business;25.05.2020;7000;Not Suspended;AML;UK;Philippines;Family support;0;No;Active;Medium;3;9
+92;Bank B;Wise Customer;Individual;04.12.2022;5100;Not Suspended;AML;France;UK;Payment for services;0;No;Active;Medium;3;9
+93;Bank C;Wise Customer;Business;11.10.2024;3800;Not Suspended;AML;UK;South Africa;Family support;0;No;Deactivated;Medium;3;9
+94;Bank B;Recipient;Individual;06.01.2016;4700;Suspended;Sanctions;Germany;India;Remittance;1;Yes;Active;High;5;8
+95;Bank A;Wise Customer;Business;08.08.2023;6500;Not Suspended;AML;US;France;Investment;0;No;Active;Medium;3;10
+96;Bank C;Recipient;Business;21.07.2021;3900;Suspended;Sanctions;UAE;Mexico;Payment for services;1;Yes;Active;High;5;9
+97;Bank B;Wise Customer;Individual;14.09.2017;4600;Not Suspended;AML;Canada;Switzerland;Remittance;0;No;Active;Medium;3;10
+98;Bank C;Wise Customer;Business;18.03.2016;5700;Not Suspended;AML;UK;UAE;Payment for services;0;No;Deactivated;Medium;3;10
+99;Bank A;Recipient;Individual;04.05.2022;3200;Suspended;Sanctions;India;UK;Investment;1;Yes;Active;High;5;10
+100;Bank A;Recipient;Individual;26.06.2023;3500;Suspended;Sanctions;France;India;Family support;1;Yes;Active;High;5;10
