@@ -7,11 +7,13 @@
 **University:** Tallinn University
 
 
+
 ## Executive Summary
 
 This portfolio demonstrates a multidisciplinary approach to the design, audit, and scaling of intelligent systems. My work focuses on the intersection of quantitative data analysis and social sustainability, ensuring that as systems automate, they remain ethical, transparent, and resilient.
 
 Across five projects, I apply SQL and Python to examine financial systems, operational workflows, institutional accountability, and socio-economic inequality. Together, these projects present a coherent narrative of socio-technical governance—where technical decisions directly shape human, economic, and institutional outcomes.
+
 
 
 ## The Five Pillars of My Work
@@ -91,6 +93,7 @@ This project investigates the relationship between educational attainment and fi
 The project provides a data-driven perspective on the economic “Return on Investment” (ROI) of higher education, supporting insights into social equity and workforce development.
 
 ⸻
+
 
 ### Conclusion
 
