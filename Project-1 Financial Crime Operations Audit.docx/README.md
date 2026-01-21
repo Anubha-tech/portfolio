@@ -68,5 +68,5 @@ As an individual, I:
 •Designed the deterministic control logic to prevent asset flight
 •Communicated insights clearly without relying on external materials
 
-### This project demonstrates how practical analytics, system design, and ethical automation together reduce systemic risk and support sustainable institutional practices.
+This project demonstrates how practical analytics, system design, and ethical automation together reduce systemic risk and support sustainable institutional practices.
 

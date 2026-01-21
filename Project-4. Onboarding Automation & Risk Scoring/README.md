@@ -1,4 +1,3 @@
-
 # Project 4
 
 Digital Payment Analysis: Institutional Risk Governance
@@ -21,7 +20,9 @@ In a sustainable digital economy, speed and accuracy of information exchange bet
 
 Partner banks are modelled as Nodes in a Socio-Technical Network. Analysing their performance highlights where Human-in-the-Loop processes slow down, offering opportunities for:
 • Automated risk escalation
+
 • Policy improvement
+
 • Sustainable operational governance
 
 
@@ -29,19 +30,23 @@ Partner banks are modelled as Nodes in a Socio-Technical Network. Analysing thei
 ### Scope & Analysis
 
 SQL-driven audit of 100 RFI entries focuses on:
+
 • Risk Exposure Distribution: 46% of cases classified as Level 5 (Critical Risk)
+
 • Theme Analysis: Balanced split between Sanctions and AML concerns
+
 • Geographic Volume: UK highest-volume node, over $110,000 in flagged transactions
+
 • Institutional Efficiency: Benchmarking response times across Bank A, B, and C
 
 
 
 ### Key Findings
 
-1. High-Risk Recurrence Pattern
+• High-Risk Recurrence Pattern
 46% of cases originate from high-priority accounts with Risk Level 5. Many involve repeated suspensions, signalling the need for deterministic automated blocks instead of repeated manual RFIs.
 
-2. Institutional Performance Variance
+• Institutional Performance Variance
 SQL benchmarking reveals Bank A has the highest average response time (9.05 days). Systemic latency increases the window of opportunity for asset flight, demonstrating that operational efficiency is critical for sustainable financial governance.
 
 
@@ -49,21 +54,29 @@ SQL benchmarking reveals Bank A has the highest average response time (9.05 days
 
 To address these findings, I propose a Risk-Based Governance Framework:
 • Automated Escalation: SQL triggers automatically escalate Level 5 RFIs from high-volume countries (e.g., UK, UAE)
+
 • Efficiency Benchmarking: SLA negotiation based on Bank Efficiency metrics reduces systemic response lag
+
 • Sustainability Outcome: $427,000 in transaction volume under continuous review demonstrates the economic necessity of Algorithmic Transparency for market stability
 
 
 
 ### Skill Set Demonstrated
 • SQL Analytics: Grouping, filtering, and averaging large operational datasets
+
 • Risk Modelling: Categorising financial data by Priority, Risk Level, and Theme
+
 • Institutional Auditing: Benchmarking partner bank performance to identify systemic bottlenecks
+
 • Governance Strategy: Translating data insights into actionable policies
 
 
 ### Technical Implementation
-• Data Synthesis: Merge RFI themes with transaction volumes to create client_onboarding_analysis.csv
-• SQL Query Development: Calculate avg_response_time and count_of_rfi per risk level
-• Trend Identification: Correlate business accounts with high-value sanctions risks ($10,000+)
-• Strategic Reporting: Develop Risk Exposure and Bank Efficiency dashboards (Sheet1.csv) to communicate findings
+• **Data Synthesis:** Merge RFI themes with transaction volumes to create client_onboarding_analysis.csv  
+
+• **SQL Query Development:** Calculate avg_response_time and count_of_rfi per risk level 
+
+• **Trend Identification:** Correlate business accounts with high-value sanctions risks ($10,000+) 
+
+• **Strategic Reporting:** Develop Risk Exposure and Bank Efficiency dashboards (Sheet1.csv) to communicate findings
 
