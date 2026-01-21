@@ -2,7 +2,7 @@
 
 **Author:** Anubha Singh
 
-**Academic Target:** MSc Artificial Intelligence for Sustainable Societies
+**Academic Target:** MA Artificial Intelligence for Sustainable Societies
 
 **University:** Tallinn University
 
@@ -26,7 +26,7 @@ Across five projects, I apply SQL and Python to examine financial systems, opera
 | 4. Network Risk | Global Payments | SQL Analytics | **Institutional Accountability:** Benchmarking bank efficiency to reduce systemic lag |
 | 5. Socio-Economics | Demographic Trends | Python-Based Data Analysis | **Social Equity:** Visualizing barriers to economic mobility and education ROI |
 
-Markdown hereStrategic Themes
+Strategic Themes
 
 1. From Reactive Auditing to Proactive Governance
 
@@ -46,8 +46,6 @@ Projects 2 and 5 focus on making complex datasets legible to non-expert stakehol
 
 
 
-Technical Competency Matrix
-
 ## Technical Competency Matrix
 
 | Category | Competencies |
@@ -64,19 +62,19 @@ Technical Competency Matrix
 
 This project involves a forensic audit of a global financial crime screening operation, which reviews flagged transactions before release. It frames the workflow as a socio-technical system, exploring how human decisions interact with automated processes. The objective was to uncover systemic risk points, understand how local errors can propagate, and propose sustainable system-level safeguards to reduce long-term operational risk.
 
-⸻
+
 
 ### Project 2: Baltic Stock Market Analysis
 
 This project developed a computational screening pipeline for the Baltic stock markets. By implementing heuristic-based valuation models, the tool identifies market inefficiencies and information asymmetries. The objective was to move beyond speculative sentiment toward a data-driven investment framework that supports long-term economic resilience and financial inclusion within regional European markets.
 
-⸻
+
 
 ### Project 3: Strategic Resource Forecasting
 
 This project focuses on the Strategic Scaling of Socio-Technical Systems. Using an operational audit of a global financial crime team, I developed a Capacity and Resource Allocation Model to manage transaction volume surges of 25–50%. The project demonstrates how quantitative forecasting ensures that Human-in-the-Loop systems remain resilient, ethical, and sustainable during periods of rapid technological growth.
 
-⸻
+
 
 ### Project 4: Digital Payment Analysis
 
@@ -84,7 +82,7 @@ This project involves a comprehensive analysis of Requests for Information (RFIs
 
 The objective is to move from individual case handling to Systemic Risk Oversight, creating a data-driven framework that improves bank efficiency, reduces institutional response lag, and enhances overall financial stability.
 
-⸻
+
 
 ### Project 5: Socio-Economic Analytics
 
@@ -92,7 +90,6 @@ This project investigates the relationship between educational attainment and fi
 
 The project provides a data-driven perspective on the economic “Return on Investment” (ROI) of higher education, supporting insights into social equity and workforce development.
 
-⸻
 
 
 ### Conclusion

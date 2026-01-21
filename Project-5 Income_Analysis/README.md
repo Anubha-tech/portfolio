@@ -35,11 +35,11 @@ The analysis uses Python to process a large-scale demographic dataset:
 
 ### Key Findings
 
-1.Advanced Education Advantage
+1. Advanced Education Advantage
 
 Individuals with Doctorate or Professional School qualifications achieve a high-income success rate of over 74%, compared to roughly 16% for high school graduates.
 
-2.Data Normalisation and Integrity
+2. Data Normalisation and Integrity
 
 Whitespace inconsistencies in salary and education fields (e.g., " >50K" vs ">50K") require automated cleaning using .str.strip(). Failure to clean whitespace would have resulted in an undercount of high-income earners, distorting the socio-economic reality of the sample and demonstrating the ethical importance of accurate data engineering.
 
@@ -49,11 +49,11 @@ Whitespace inconsistencies in salary and education fields (e.g., " >50K" vs ">50
 
 • Data Processing with Python: Cleaning and processing large datasets using Pandas
 
-•Statistical Analysis: Calculating normalised success rates across educational tiers using .value_counts(normalise=True)
+• Statistical Analysis: Calculating normalised success rates across educational tiers using .value_counts(normalise=True)
 
-•Data Visualisation: Creating clear bar charts with Metplotlib to communicate trends effectively
+• Data Visualisation: Creating clear bar charts with Metplotlib to communicate trends effectively
 
-•Socio-Economic Insight: Evaluating patterns of economic mobility to inform sustainable workforce planning
+• Socio-Economic Insight: Evaluating patterns of economic mobility to inform sustainable workforce planning
 
 
 ### Technical Implementation

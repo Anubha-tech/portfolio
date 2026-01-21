@@ -33,7 +33,7 @@ The analysis utilised operational datasets and performance metrics:
 
 Deterministic modelling showed that a 25% surge (1,250 reviews) requires expanding from 24 to 30 agents. This prevents compliance fatigue, a major driver of errors.
 
-**SQL Insight:** Variance analysis from performance.sql revealed that resolution times increased by 18% during peak hours, validating the need for a systemic buffer.
+SQL Insight: Variance analysis from performance.sql revealed that resolution times increased by 18% during peak hours, validating the need for a systemic buffer.
 
 **2. Intervention: Hybrid Intelligence & RPA Integration**
 
@@ -73,7 +73,6 @@ As an individual, I:
 
 
 
-This project demonstrates how strategic planning, operational modelling, and intelligent automation can scale human-centred systems sustainably, ensuring resilience in AI-driven societies.
 
 
 

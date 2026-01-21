@@ -1,8 +1,8 @@
 # Project 4
 
-Digital Payment Analysis: Institutional Risk Governance
+### Digital Payment Analysis: Institutional Risk Governance
 
-## Focus: SQL Analytics · Risk Pattern Recognition · Algorithmic Accountability
+Focus: SQL Analytics · Risk Pattern Recognition · Algorithmic Accountability
 
 
 
@@ -19,6 +19,7 @@ The objective is to move from individual case handling to Systemic Risk Oversigh
 In a sustainable digital economy, speed and accuracy of information exchange between banks is critical. Delays in RFI responses (averaging ~9 days) create liquidity bottlenecks and increase exposure to financial crime.
 
 Partner banks are modelled as Nodes in a Socio-Technical Network. Analysing their performance highlights where Human-in-the-Loop processes slow down, offering opportunities for:
+
 • Automated risk escalation
 
 • Policy improvement
@@ -44,9 +45,11 @@ SQL-driven audit of 100 RFI entries focuses on:
 ### Key Findings
 
 • High-Risk Recurrence Pattern
+
 46% of cases originate from high-priority accounts with Risk Level 5. Many involve repeated suspensions, signalling the need for deterministic automated blocks instead of repeated manual RFIs.
 
 • Institutional Performance Variance
+
 SQL benchmarking reveals Bank A has the highest average response time (9.05 days). Systemic latency increases the window of opportunity for asset flight, demonstrating that operational efficiency is critical for sustainable financial governance.
 
 
