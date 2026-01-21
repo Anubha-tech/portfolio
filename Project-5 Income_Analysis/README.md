@@ -1,4 +1,3 @@
-
 # Project 5
 
 ### Socio-Economic Analytics: Educational Impact on Income
