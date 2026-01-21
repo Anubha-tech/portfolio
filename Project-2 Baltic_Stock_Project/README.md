@@ -1,6 +1,6 @@
 # Project 2
 
-##Baltic Stock Market Analysis
+## Baltic Stock Market Analysis
 
 Focus: Data Science · Algorithmic Filtering · Interpretability
 
