@@ -50,7 +50,7 @@ SQL-driven audit of 100 RFI entries focuses on:
 
 • Institutional Performance Variance
 
-SQL benchmarking reveals Bank A has the highest average response time (9.05 days). Systemic latency increases the window of opportunity for asset flight, demonstrating that operational efficiency is critical for sustainable financial governance.
+SQL benchmarking reveals Bank A has the highest average response time (9.05 days).compared to Bank B (8.97 days) and Bank C (8.91 days).
 
 
 ### Intervention: Priority-Based Risk Triage
@@ -60,8 +60,7 @@ To address these findings, I propose a Risk-Based Governance Framework:
 
 • Efficiency Benchmarking: SLA negotiation based on Bank Efficiency metrics reduces systemic response lag
 
-• Sustainability Outcome: $427,000 in transaction volume under continuous review demonstrates the economic necessity of Algorithmic Transparency for market stability
-
+• Sustainability Outcome: $427,000 in total transaction volume under continuous review demonstrates the economic necessity of Algorithmic Transparency for market stability.
 
 
 ### Skill Set Demonstrated
@@ -69,12 +68,15 @@ To address these findings, I propose a Risk-Based Governance Framework:
 
 • Risk Modelling: Categorising financial data by Priority, Risk Level, and Theme
 
+•Socio-Technical Modeling: Framing scaling challenges around human exhaustion and "Human-in-the- Loop" resilience.
+
 • Institutional Auditing: Benchmarking partner bank performance to identify systemic bottlenecks
 
 • Governance Strategy: Translating data insights into actionable policies
 
 
 ### Technical Implementation
+
 • **Data Synthesis:** Merge RFI themes with transaction volumes to create client_onboarding_analysis.csv  
 
 • **SQL Query Development:** Calculate avg_response_time and count_of_rfi per risk level 
