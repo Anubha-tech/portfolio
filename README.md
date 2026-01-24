@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-This portfolio demonstrates a multidisciplinary approach to the design, audit, and scaling of intelligent systems. My work focuses on the intersection of quantitative data analysis and social sustainability, ensuring that as systems automate, they remain ethical, transparent, and resilient.
+This portfolio demonstrates a multidisciplinary approach to the design, evaluation, and scaling of intelligent systems. My work focuses on the intersection of quantitative data analysis and social sustainability, ensuring that as systems automate, they remain ethical, transparent, and resilient.
 
 Across five projects, I apply SQL and Python to examine financial systems, operational workflows, institutional accountability, and socio-economic inequality. Together, these projects present a coherent narrative of socio-technical governance—where technical decisions directly shape human, economic, and institutional outcomes.
 
@@ -20,15 +20,15 @@ Across five projects, I apply SQL and Python to examine financial systems, opera
 
 | Project | Core Domain | Technical Focus | Sustainability Impact |
 |--------|-------------|----------------|------------------------|
-| 1. Forensic Audit | Financial Compliance | SQL / Log Analysis | **Institutional Trust:** Preventing asset flight through system-level controls |
-| 2. Baltic Equity | Market Intelligence | Python / Heuristic Analysis | **Economic Inclusion:** Reducing information asymmetry for local investors |
-| 3. Resource Scaling | Operations Strategy | Capacity Modeling | **Workforce Well-being:** Mitigating cognitive load and normalization of deviance |
-| 4. Network Risk | Global Payments | SQL Analytics | **Institutional Accountability:** Benchmarking bank efficiency to reduce systemic lag |
-| 5. Socio-Economics | Demographic Trends | Python-Based Data Analysis | **Social Equity:** Visualizing barriers to economic mobility and education ROI |
+| 1. Forensic Analysis | Financial Compliance | SQL / Log Analysis | **Institutional Trust:** Preventing asset flight through system-level controls |
+| 2.Baltic Stock Market Analysis| Market Intelligence | Python / Heuristic Analysis | **Economic Inclusion:** Reducing information asymmetry for local investors |
+| 3. Strategic Resource & Capacity Forecasting | Operations Strategy | Capacity Modeling | **Workforce Well-being:** Mitigating cognitive load and normalization of deviance |
+| 4. Digital Payment Analysis | Global Payments | SQL Analytics | **Institutional Accountability:** Benchmarking bank efficiency to reduce systemic lag |
+| 5. Socio-Economic Analytics | Demographic Trends | Python-Based Data Analysis | **Social Equity:** Visualizing barriers to economic mobility and education ROI |
 
 Strategic Themes
 
-1. From Reactive Auditing to Proactive Governance
+1. From Reactive Monitoring to Proactive Governance
 
 Across Projects 1 and 4, the focus shifts from identifying individual transactional issues to evaluating institutional behaviour at scale. This transition from micro-level compliance to macro-level oversight supports the stability and transparency required in digital financial societies.
 
@@ -58,21 +58,21 @@ Projects 2 and 5 focus on making complex datasets legible to non-expert stakehol
 
 ## Projects
 
-### Project 1: Financial Crime Operations Audit
+### Project 1:Financial Crime Operations Analysis
 
-This project involves a forensic audit of a global financial crime screening operation, which reviews flagged transactions before release. It frames the workflow as a socio-technical system, exploring how human decisions interact with automated processes. The objective was to uncover systemic risk points, understand how local errors can propagate, and propose sustainable system-level safeguards to reduce long-term operational risk.
+This project involves a forensic workflow analysis of a global financial crime screening operation, which reviews flagged transactions before release. It frames the workflow as a socio-technical system, exploring how human decisions interact with automated processes. The objective was to uncover systemic risk points, understand how local errors can propagate, and propose sustainable system-level safeguards to reduce long-term operational risk.
 
 
 
-### Project 2: Baltic Stock Market Analysis
+### Project 2:Baltic Stock Market Analysis
 
 This project developed a computational screening pipeline for the Baltic stock markets. By implementing heuristic-based valuation models, the tool identifies market inefficiencies and information asymmetries. The objective was to move beyond speculative sentiment toward a data-driven investment framework that supports long-term economic resilience and financial inclusion within regional European markets.
 
 
 
-### Project 3: Strategic Resource Forecasting
+### Project 3: Strategic Resource & Capacity Forecasting
 
-This project focuses on the Strategic Scaling of Socio-Technical Systems. Using an operational audit of a global financial crime team, I developed a Capacity and Resource Allocation Model to manage transaction volume surges of 25–50%. The project demonstrates how quantitative forecasting ensures that Human-in-the-Loop systems remain resilient, ethical, and sustainable during periods of rapid technological growth.
+This project focuses on the Strategic Scaling of Socio-Technical Systems. Using an operational analysis  of a global financial crime team, I developed a Capacity and Resource Allocation Model to manage transaction volume surges of 25–50%. The project demonstrates how quantitative forecasting ensures that Human-in-the-Loop systems remain resilient, ethical, and sustainable during periods of rapid technological growth.
 
 
 
