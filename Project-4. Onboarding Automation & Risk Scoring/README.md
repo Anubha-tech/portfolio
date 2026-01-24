@@ -77,7 +77,7 @@ To address these findings, I propose a Risk-Based Governance Framework:
 
 ### Technical Implementation
 
-• **Data Synthesis:** Merge RFI themes with transaction volumes to create client_onboarding_analysis.csv  
+• **Data Synthesis:** Merge RFI themes with transaction volumes to create Digital Payment Analysis.csv  
 
 • **SQL Query Development:** Calculate avg_response_time and count_of_rfi per risk level 
 
