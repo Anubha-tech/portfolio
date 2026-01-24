@@ -1,12 +1,12 @@
 # Project 3
 
-## Financial Crime Operations: Strategic Resource Forecasting
+## Strategic Resource & Capacity Forecasting
 
 Focus: Capacity Modelling · Scaling Strategy · Operational Resilience
 
 ### Project Summary
 
-This project focuses on the Strategic Scaling of Socio-Technical Systems. Using an operational audit of a global financial crime team, I developed a Capacity and Resource Allocation Model to manage transaction volume surges of 25–50%. The project demonstrates how quantitative forecasting ensures that Human-in-the-Loop systems remain resilient, ethical, and sustainable during periods of rapid technological growth.
+This project focuses on the Strategic Scaling of Socio-Technical Systems. Using an operational analysis of a global financial crime team, I developed a Capacity and Resource Allocation Model to manage transaction volume surges of 25–50%. The project demonstrates how quantitative forecasting ensures that Human-in-the-Loop systems remain resilient, ethical, and sustainable during periods of rapid technological growth.
 
 ### Background & Context
 
@@ -19,7 +19,7 @@ From a Sustainable Societies perspective, an overextended workforce represents a
 
 The analysis utilised operational datasets and performance metrics:
 
-• **Baseline Audit:** 1,000 daily reviews managed by a 24-agent global team
+• **Baseline System Evaluation:** 1,000 daily reviews managed by a 24-agent global team
 
 • **Predictive Scaling:** Calculated headcount for a 25% volume increase with a 20% systemic buffer
 
