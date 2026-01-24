@@ -1,19 +1,19 @@
 # Project 1
 
-### Financial Crime Operations Audit
+### Financial Crime Operations Analysis
 
 Focus: Systemic Risk · Compliance · Responsible Automation
 
 
 ### Project Summary
 
-This project involved a forensic audit of a global financial crime screening operation, reviewing flagged transactions before release. By framing the workflow as a socio-technical system, it explored how human decisions interact with automated processes. The goal was to identify systemic risk points, understand how local errors propagate, and propose sustainable system-level safeguards to reduce long-term operational risk.
+This project involved a forensic analysis of a global financial crime screening operation, reviewing flagged transactions before release. By framing the workflow as a socio-technical system, it explored how human decisions interact with automated processes. The goal was to identify systemic risk points, understand how local errors propagate, and propose sustainable system-level safeguards to reduce long-term operational risk.
 
 
 ###  Background & Context
 
 Financial crime screening is vital to maintaining trust in financial institutions. Failures can affect regulatory compliance, financial stability, and societal confidence.
-Distributed global teams face pressure to process transactions quickly, creating conditions where speed may compromise safety. This project positions compliance as a sustainability challenge, showing that thoughtful system design strengthens resilience, accountability, and responsible AI practices.
+Distributed global teams face pressure to process transactions quickly, creating conditions where speed may compromise safety. This project positions compliance as a sustainability challenge, showing that thoughtful system design strengthens resilience, accountability, and responsible AI practices.This work was conducted as a process-level analytical review within my role as an operations analyst, focusing on system behaviour rather than formal regulatory auditing.
 
 
 
